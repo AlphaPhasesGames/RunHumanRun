@@ -1,5 +1,5 @@
 #  <p align=center> <span style="color:red"> Alpha Phases Games </span>
-
+<p style=“color: #ff0099;”>Alpha Phases Games </p>
 <p align=center> Alpha Phases is a solo independant development studio based on Lincoln Uk, focused on creating cheap, fun, PC games. 
   
 
