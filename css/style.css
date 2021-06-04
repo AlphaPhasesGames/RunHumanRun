@@ -1,1 +1,7 @@
-
+h1 {
+    font-family:Arial, Helvetica, sans-serif;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
+    font-size: 22px;  /* font size */
+    font-style: normal;  /* this is for italic or normal */
+    font-weight: bolder;    /* this is for the level of boldness of the font */
+    text-align: center;
+}
