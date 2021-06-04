@@ -1,5 +1,5 @@
 #  <p align=center> <span style="color:red"> Alpha Phases Games </span>
-<p style=“color: #ff0099;”>Alpha Phases Games </p>
+
 <p align=center> Alpha Phases is a solo independant development studio based on Lincoln Uk, focused on creating cheap, fun, PC games. 
   
 
@@ -7,4 +7,4 @@
   
  ## <p align=center> About Us
 
-  <p align=center> I am a solo independent games developer from lincoln. I am focused on creating cheap, fun, add free PC games that do not harvest data. I am also commited to not including any paid for lootboxes or DLC. Everything in the games I make can be unlocked or collected in game. My current game Run Human Run is in development. I use programing as a method of coping with severe anxiety and bi polar.
+  <p align=center> My name is William Hawke and I'm a solo independent games developer from lincoln. I am focused on creating cheap, fun, add free PC games that do not harvest data. I am also commited to not including any paid for lootboxes or DLC. Everything in the games I make can be unlocked or collected by playing. I suffer from severe mental health problems and I use programing as a method of coping with my anxiety and bi polar.
