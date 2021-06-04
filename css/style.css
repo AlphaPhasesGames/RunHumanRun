@@ -7,7 +7,7 @@ h1 {
     text-decoration: underline ; /* This is the setting like underline and stuff*/
     text-indent: 0px ; /* This indents text by specified amount*/
     text-transform: none; /* change to all caps and other settings - Uppercase is all caps, capitalize is caps on first letters*/
-    color: #F5031C; /* change color of text use # for hexi colours and rgb(255,255,255)  you can used rgba(0,0,0,0) add a 4th number between 1 and 0 as the final number then this effects transparancy */
+    color: #000000; /* change color of text use # for hexi colours and rgb(255,255,255)  you can used rgba(0,0,0,0) add a 4th number between 1 and 0 as the final number then this effects transparancy */
     letter-spacing: 0px; /* this effects kerning ( letter spacing)*/
     word-spacing: 0px; /* this effects space between words*/
     line-height: 0px; /* this effects space between lines*/
