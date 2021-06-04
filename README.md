@@ -1,8 +1,4 @@
-
-
-## <p align=center> Alpha Phases Games
-
-<p align=center> Alpha Phases is a solo independant development studio based on Lincoln Uk, focused on creating cheap, fun, PC games.  
+# <p align=center> Alpha Phases is a solo independant development studio based on Lincoln Uk, focused on creating cheap, fun, PC games.  
 
 ### <p align=center> <span style="color:orange"> About Us </span> 
 
