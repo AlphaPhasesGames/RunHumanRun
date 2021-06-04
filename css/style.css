@@ -30,5 +30,6 @@ h2 {
 }
 p{
     font-size: 22px;  /* font size */
+    text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     color: black; 
 }
