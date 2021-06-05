@@ -42,7 +42,9 @@ h2 {
 }
 
 q{
-    text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
+    font-size: 10px;  /* font size */
+    text-align: left; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
+    color: black; 
 }
 p{
     font-size: 22px;  /* font size */
