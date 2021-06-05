@@ -3,8 +3,7 @@ h1 {
     font-size: 12px;  /* font size */
     font-style: normal;  /* this is for italic or normal */
     font-weight: bold;    /* this is for the level of boldness of the font */
-/* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
-    text-align: right; 
+    text-align: left; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     text-decoration: underline ; /* This is the setting like underline and stuff*/
     text-indent: -10px ; /* This indents text by specified amount*/
     text-transform: none; /* change to all caps and other settings - Uppercase is all caps, capitalize is caps on first letters*/
