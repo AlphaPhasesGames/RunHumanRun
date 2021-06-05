@@ -18,7 +18,8 @@ h1 {
 @media screen and (min-width: 361px) {
     h2 {
         font-family: 'ZCOOL KuaiLe', cursive;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
-        font-size: 10px;
+        font-size: 1px;
+        text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     }
   }
   @media screen and (min-width: 800px) {
