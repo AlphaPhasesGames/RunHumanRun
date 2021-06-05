@@ -34,7 +34,7 @@ h2 {
     overflow-wrap: normal;
     @media only screen and (min-width: 360px) {
         .heading {
-          font-size: 10px;
+          font-size: 30px;
         }
       }
 }
