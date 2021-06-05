@@ -3,11 +3,13 @@ h1 {
     font-size: 12px;  /* font size */
     font-style: normal;  /* this is for italic or normal */
     font-weight: bold;    /* this is for the level of boldness of the font */
-/* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    text-align: center; 
+/* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
+    text-align: right; 
     text-decoration: underline ; /* This is the setting like underline and stuff*/
-    text-indent: 0px ; /* This indents text by specified amount*/
+    text-indent: -10px ; /* This indents text by specified amount*/
     text-transform: none; /* change to all caps and other settings - Uppercase is all caps, capitalize is caps on first letters*/
     color: rgb(0, 0, 0); /* change color of text use # for hexi colours and rgb(255,255,255)  you can used rgba(0,0,0,0) add a 4th number between 1 and 0 as the final number then this effects transparancy */
+    background-color: #000000;
     letter-spacing: 0px; /* this effects kerning ( letter spacing)*/
     word-spacing: 0px; /* this effects space between words*/
     line-height: 0px; /* this effects space between lines*/
