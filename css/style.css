@@ -64,3 +64,9 @@ p{
     width: 100%;
     height: 100%;
   }
+
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #DB1E3F;
+  }
