@@ -36,9 +36,7 @@ h2 {
     word-spacing: 0px; /* this effects space between words*/
     line-height: 0px; /* this effects space between lines*/
     overflow-wrap: normal;
-   
    }
-
 q{
     font-size: 10;  /* font size */
     font-style: normal;  /* this is for italic or normal */ 
