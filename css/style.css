@@ -19,8 +19,14 @@ h1 {
  
 h2 {
     
+    @media only screen and (max-width: 360px) {
+        .heading {
+          font-size: 50px;
+        }
+      }
+
     font-family: 'ZCOOL KuaiLe', cursive;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
-    font-size: 20px ;  /* font size */
+    font-size: 10px ;  /* font size */
     font-style: normal;  /* this is for italic or normal */
     font-weight: bolder;    /* this is for the level of boldness of the font */
     text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
@@ -32,11 +38,7 @@ h2 {
     word-spacing: 0px; /* this effects space between words*/
     line-height: 0px; /* this effects space between lines*/
     overflow-wrap: normal;
-    @media only screen and (min-width: 360px) {
-        .heading {
-          font-size: 30px;
-        }
-      }
+    
 }
 
 q{
