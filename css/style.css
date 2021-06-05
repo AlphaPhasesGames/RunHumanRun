@@ -15,7 +15,7 @@ h1 {
 }
 h2 {
     font-family: 'ZCOOL KuaiLe', cursive;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
-    font-size: 4vw;  /* font size */
+    font-size: 20vw;  /* font size */
     font-style: normal;  /* this is for italic or normal */
     font-weight: bolder;    /* this is for the level of boldness of the font */
     text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
