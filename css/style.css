@@ -49,3 +49,17 @@ p{
     text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     color: black; 
 }
+
+.videoWrapper{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+   .videoWrapper iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
