@@ -20,7 +20,6 @@ h1 {
         font-family: 'ZCOOL KuaiLe', cursive;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
         font-size: 45px;
         text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
-        color: #F53D1E;
     }
   }
   @media only screen and (min-width: 800px) {
@@ -34,7 +33,7 @@ h2 {
     text-decoration: none ; /* This is the setting like underline and stuff*/
     text-indent: 0px ; /* This indents text by specified amount*/
     text-transform: none; /* change to all caps and other settings - Uppercase is all caps, capitalize is caps on first letters*/
-    color: #F53D1E; /* change color of text use # for hexi colours and rgb(255,255,255)  you can used rgba(0,0,0,0) add a 4th number between 1 and 0 as the final number then this effects transparancy */
+    color: #000000; /* change color of text use # for hexi colours and rgb(255,255,255)  you can used rgba(0,0,0,0) add a 4th number between 1 and 0 as the final number then this effects transparancy */
     letter-spacing: 0px; /* this effects kerning ( letter spacing)*/
     word-spacing: 0px; /* this effects space between words*/
     line-height: 0px; /* this effects space between lines*/
@@ -45,7 +44,7 @@ h2 {
 h3{ 
     font-size: 13px;  /* font size */
     text-align: left; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
-    color: #F53D1E; 
+    color: black; 
     font-family: 'Potta One', cursive;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
     font-weight: bold; 
 }
@@ -53,24 +52,24 @@ h3{
 p{
     font-size: 20px;  /* font size */
     text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
-    color: #F53D1E;  /* color */
+    color: black;  /* color */
     font-family: Calibri, sans-serif  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
     font-weight: bold;    /* this is for the level of boldness of the font */
 }
 ul{
     font-size: 14px;  /* font size */
     text-align: left; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
-    color: #F53D1E;  /* color */
+    color: black;  /* color */
     font-family: Calibri, sans-serif  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
     font-weight: bold;    /* this is for the level of boldness of the font */
-    text-indent: 5px ; /* This indents text by specified amount*/
-    padding-left: 25%;
+    text-indent: 0px ; /* This indents text by specified amount*/
+    padding-left: 29%;
 }
 /* video wrapper class with position details*/
 .videoWrapper{
     position: relative;
     width: 75%;
-    padding-bottom: 65.25%;
+    padding-bottom: 65.25%; 
     height: 0;
 }
 .videoWrapper iframe{
