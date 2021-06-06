@@ -53,7 +53,7 @@ p{
     font-size: 20px;  /* font size */
     text-align: center; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     color: black;  /* color */
-    font-family: Helvetica,sans-serif,Arial,  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
+    font-family: Calibri, sans-serif  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
     font-weight: bold;    /* this is for the level of boldness of the font */
 }
 /* video wrapper class with position details*/
@@ -72,7 +72,7 @@ p{
 }
 /* This is the Class for the header*/
 .header {
-    padding: 38px;
+    padding: 35px;
     text-align: left;
     background: #000000;
 }
