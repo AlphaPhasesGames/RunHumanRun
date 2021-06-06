@@ -46,7 +46,8 @@ p{
     font-size: 13px;  /* font size */
     text-align: left; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     color: black; 
-    font-family: sans-serif,Arial, Helvetica ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
+    font-family: Helvetica,sans-serif,Arial,  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
+    font-weight: bold;    /* this is for the level of boldness of the font */
 }
 
 .videoWrapper{
@@ -64,7 +65,7 @@ p{
   }
 
   .header {
-    padding: 34px;
+    padding: 30px;
     text-align: left;
     background: #DB1E3F;
   }
