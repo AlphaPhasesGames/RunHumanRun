@@ -62,7 +62,7 @@ ul{
     color: black;  /* color */
     font-family: Calibri, sans-serif  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
     font-weight: bold;    /* this is for the level of boldness of the font */
-    text-indent: 70px ; /* This indents text by specified amount*/
+    text-indent: 0px ; /* This indents text by specified amount*/
 }
 /* video wrapper class with position details*/
 .videoWrapper{
