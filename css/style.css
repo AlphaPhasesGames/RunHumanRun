@@ -46,7 +46,7 @@ h3{
     text-align: left; /* this is the alignment - justified means if the text is in a box, it spaces out the letters space in the box*/    
     color: black; 
     font-family: 'Potta One', cursive;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
-    font-weight: bold; 
+    font-weight: normal; 
 }
 
 p{
