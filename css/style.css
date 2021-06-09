@@ -77,6 +77,12 @@ ul{
     padding-left: 35%;
 }
 
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
 .column {
   
     width: auto;
