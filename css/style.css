@@ -79,7 +79,8 @@ ul{
 
 .column {
   
-    width: 33.33%;
+    width: auto;
+    height: auto;
     padding: 5px;
 }
 
