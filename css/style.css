@@ -31,6 +31,20 @@ h1 {
         text-indent: 0px ; /* This indents text by specified amount*/
         padding-left: 10%;
     }
+
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+    }
+
+    /* Clear floats after image containers */
+    .row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
 /* video wrapper class with position details*/
     .videoWrapper{
         position: relative;
@@ -107,14 +121,6 @@ p{
     font-family: Calibri, sans-serif  ;  /* Font familys to use for h1 headers, has 3 because if the first isnt available then go to second and so on. */
     font-weight: bold;    /* this is for the level of boldness of the font */
 }
-
-.imageWrapper{
-    position: absolute;
-    width: 100%;
-    height: auto;
-}
-
-
 
 
 /* This is the Class for the header*/
