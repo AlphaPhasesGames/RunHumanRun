@@ -32,7 +32,12 @@ h1 {
         padding-left: 10%;
     }
 
-    
+    .container {
+        background-color: crimson;
+        background-position:center;
+        width:fit-content;
+        height:fit-content;
+      }
 
 /* video wrapper class with position details*/
     .videoWrapper{
@@ -77,13 +82,8 @@ ul{
     padding-left: 35%;
 }
 
-.container {
-    background-color: crimson;
-    background-position:center;
-    width:fit-content;
-    height:fit-content;
-  }
-  C:\Users\WHawke\Documents\GitHub\RunHumanRun\assets\img\GameImages
+
+
 .column {
   
     width: auto;
