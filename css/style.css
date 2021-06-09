@@ -78,7 +78,7 @@ ul{
 }
 
 .container {
-    background-image:url('file:///c:/Users/WHawke/Documents/GitHub/RunHumanRun/assets/img/GameImages/webBG.png');
+    background-color: crimson;
     background-position:center;
     width:fit-content;
     height:fit-content;
