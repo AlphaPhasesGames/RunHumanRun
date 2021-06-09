@@ -109,7 +109,7 @@ p{
 }
 
 .imageWrapper{
-    position: relative;
+    position: absolute;
     width: 100%;
     height: auto;
 }
