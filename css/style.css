@@ -74,6 +74,14 @@ ul{
     padding-left: 35%;
 }
 
+.imageWrapper{
+    position: relative;
+    width: 100%;
+    height: 0;
+}
+
+
+
 .videoWrapper{
     position: relative;
     width: 100%;
