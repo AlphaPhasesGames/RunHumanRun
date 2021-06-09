@@ -78,12 +78,12 @@ ul{
 }
 
 .container {
-    background-image:("../assets/img/GameImages/webBG.png");
+    background-image:url('file:///c:/Users/WHawke/Documents/GitHub/RunHumanRun/assets/img/GameImages/webBG.png');
     background-position:center;
     width:fit-content;
     height:fit-content;
   }
-
+  C:\Users\WHawke\Documents\GitHub\RunHumanRun\assets\img\GameImages
 .column {
   
     width: auto;
