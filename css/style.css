@@ -78,9 +78,10 @@ ul{
 }
 
 .container {
-    position: relative;
-    text-align: center;
-    color: white;
+    background-image:("../assets/img/GameImages/webBG.png");
+    background-position:center;
+    width:700px;
+    height:400px;
   }
 
 .column {
